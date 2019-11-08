@@ -1,0 +1,28 @@
+{
+  "name": "api-northwind",
+  "version": "1.0.0",
+  "description": "Api para la famosa base de datos northwind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lowLevelCode/api-northwind.git"
+  },
+  "keywords": [],
+  "author": "jesus raul alarcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lowLevelCode/api-northwind/issues"
+  },
+  "homepage": "https://github.com/lowLevelCode/api-northwind#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
